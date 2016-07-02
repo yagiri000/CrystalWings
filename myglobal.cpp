@@ -1,0 +1,2 @@
+#include "myglobal.h"
+
